@@ -1,0 +1,24 @@
+{
+    "Name": {
+        "desc": "Test",
+        "img": "inocydia.github.io\img\logo1.jpeg",
+        "App1": {
+            "desc": "Test app",
+            "cat": 1,
+            "img": "",
+            "url" : ""
+        },
+        "Tweak1": {
+            "desc": "Test tweak",
+            "cat": 2,
+            "img": "",
+            "url" : ""
+        },
+         "Theme1": {
+            "desc": "Test theme",
+            "cat": 2,
+            "img" :  "",
+            "url" : ""
+        }
+    }
+ }
