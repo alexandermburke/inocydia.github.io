@@ -1,24 +1,30 @@
 {
-    "Name": {
-        "desc": "Test",
-        "img": "inocydia.github.io\img\logo1.jpeg",
-        "App1": {
-            "desc": "Test app",
-            "cat": 1,
-            "img": "",
-            "url" : ""
-        },
-        "Tweak1": {
-            "desc": "Test tweak",
-            "cat": 2,
-            "img": "",
-            "url" : ""
-        },
-         "Theme1": {
-            "desc": "Test theme",
-            "cat": 2,
-            "img" :  "",
-            "url" : ""
+    "repo": [
+        {
+            "name": "RepoName",
+            "desc": "Test Repo",
+            "img": "http://inocydia.github.io\img\logo1.jpeg",
+            "content": {
+                "AppName1": {
+                    "desc": "Test app",
+                    "cat": 1,
+                    "img": "",
+                    "url": ""
+                },
+                "Tweakname1": {
+                    "desc": "Test tweak",
+                    "cat": 2,
+                    "img": "",
+                    "url": ""
+                },
+                "ThemeName1": {
+                    "desc": "Test theme",
+                    "cat": 3,
+                    "img": "",
+                    "url": ""
+
+                }
+            }
         }
-    }
- }
+    ]
+}
