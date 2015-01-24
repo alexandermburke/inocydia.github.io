@@ -3,7 +3,7 @@
         {
             "name": "RepoName",
             "desc": "Test Repo",
-            "img": "http://inocydia.github.io\img\logo1.jpeg",
+            "img": "http://inocydia.github.io/img/logo1.jpeg",
             "content": {
                 "AppName1": {
                     "desc": "Test app",
