@@ -1,5 +1,5 @@
 {
-    "repo": [
+    "repo": 
         {
             "name": "RepoName",
             "desc": "Test Repo",
@@ -7,24 +7,24 @@
             "content": {
                 "AppName1": {
                     "desc": "Test app",
-                    "cat": 1,
-                    "img": "",
-                    "url": ""
+                    "cat": "1",
+                    "img": "1",
+                    "url": "1"
                 },
                 "Tweakname1": {
                     "desc": "Test tweak",
-                    "cat": 2,
-                    "img": "",
-                    "url": ""
+                    "cat": "2",
+                    "img": "1",
+                    "url": "1"
                 },
                 "ThemeName1": {
                     "desc": "Test theme",
-                    "cat": 3,
-                    "img": "",
-                    "url": ""
+                    "cat": "3",
+                    "img": "1",
+                    "url": "1"
 
                 }
             }
         }
-    ]
+   
 }
