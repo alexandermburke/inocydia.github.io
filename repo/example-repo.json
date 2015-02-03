@@ -7,22 +7,22 @@
                 "name": "AppName1",
                 "desc":"Testapp",
                 "cat":"1",
-                "img":"http://repo.kennethdev.info/img/apps.jpg",
-                "url":"1"
+                "img":"http://repo.kennethdev.info/img/apps.png",
+                "url":"google.com"
             },
             {
                 "name": "Tweakname1",  
                 "desc":"Testtweak",
                 "cat":"2",
-                "img":"http://repo.kennethdev.info/img/tweaks.jpg",
-                "url":"1"
+                "img":"http://repo.kennethdev.info/img/tweaks.png",
+                "url":"yahoo.com"
             },
             {
                 "name": "Themename",
                 "desc":"Testtheme",
                 "cat":"3",
                 "img":"http://repo.kennethdev.info/img/inclink.jpg",
-                "url":"1"
+                "url":"bing.com"
             }]
         }
     }
